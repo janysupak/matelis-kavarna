@@ -1,3 +1,15 @@
+export const metadata = {
+  title: "MatEliS Kavárna Krnov | Výběrová káva a dezerty",
+  description:
+    "MatEliS Kavárna v Krnově nabízí výběrovou kávu, domácí dezerty, snídaně a prostor pro rodinné i firemní akce. Příjemná atmosféra v centru Krnova.",
+  keywords: [
+    "kavárna Krnov",
+    "MatEliS",
+    "káva Krnov",
+    "dezerty Krnov",
+    "kavárna",
+  ],
+};
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
