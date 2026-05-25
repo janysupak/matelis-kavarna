@@ -214,7 +214,7 @@ export default function Home() {
             </p>
 
             <p
-              <>
+              
    style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
     V prostorách kavárny MatEliS pro vás rádi připravíme:
   </p>
@@ -243,8 +243,8 @@ export default function Home() {
 
   <p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
     Pro více informací a rezervace nás neváhejte kontaktovat.
-  </p>
-</>
+  
+
             </p>
           </div>
 
