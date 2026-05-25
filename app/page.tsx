@@ -214,27 +214,37 @@ export default function Home() {
             </p>
 
             <p
-               style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
-  V prostorách kavárny MatEliS pro vás rádi připravíme:
-</p>
+              <>
+   style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
+    V prostorách kavárny MatEliS pro vás rádi připravíme:
+  </p>
 
-<ul style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
-  <li>narozeninové oslavy</li>
-  <li>smuteční hostiny</li>
-  <li>firemní večírky</li>
-  <li>rodinná setkání</li>
-  <li>posezení s přáteli</li>
-  <li>menší soukromé akce</li>
-</ul>
+  <ul
+    style={{
+      fontSize: "21px",
+      lineHeight: "2",
+      color: "#5a4638",
+      paddingLeft: "20px",
+      marginTop: "10px",
+    }}
+  >
+    <li>narozeninové oslavy</li>
+    <li>smuteční hostiny</li>
+    <li>firemní večírky</li>
+    <li>rodinná setkání</li>
+    <li>posezení s přáteli</li>
+    <li>menší soukromé akce</li>
+  </ul>
 
-<p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
-  Zajistíme příjemné prostředí, domácí občerstvení, sladké i slané dobroty,
-  výběrovou kávu i individuální domluvu podle vašich přání.
-</p>
+  <p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
+    Zajistíme příjemné prostředí, domácí občerstvení, sladké i slané dobroty,
+    výběrovou kávu i individuální domluvu podle vašich přání.
+  </p>
 
-<p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
-  Pro více informací a rezervace nás neváhejte kontaktovat.
-</p>
+  <p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
+    Pro více informací a rezervace nás neváhejte kontaktovat.
+  </p>
+</>
             </p>
           </div>
 
