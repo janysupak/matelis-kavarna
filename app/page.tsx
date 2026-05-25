@@ -200,52 +200,37 @@ export default function Home() {
               Kavárna
             </h2>
 
-            <p
-              style={{
-                fontSize: "21px",
-                lineHeight: "2",
-                color: "#5a4638",
-              }}
-            >
-              Na Albrechtické ulici v Krnově jsme
-              vytvořili místo, kde si můžete na chvíli
-              odpočinout od ruchu města a vychutnat si
-              opravdu poctivou kávu.
-            </p>
+            <p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
+  Na Albrechtické ulici v Krnově jsme
+  vytvořili místo, kde si můžete na chvíli
+  odpočinout od ruchu města a vychutnat si
+  opravdu poctivou kávu.
+</p>
 
-            <p
-              
-   style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
-    V prostorách kavárny MatEliS pro vás rádi připravíme:
-  </p>
+<p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638" }}>
+  V prostorách kavárny MatEliS pro vás rádi připravíme:
+</p>
 
-  <ul
-    style={{
-      fontSize: "21px",
-      lineHeight: "2",
-      color: "#5a4638",
-      paddingLeft: "20px",
-      marginTop: "10px",
-    }}
-  >
-    <li>narozeninové oslavy</li>
-    <li>smuteční hostiny</li>
-    <li>firemní večírky</li>
-    <li>rodinná setkání</li>
-    <li>posezení s přáteli</li>
-    <li>menší soukromé akce</li>
-  </ul>
+<ul style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", paddingLeft: "20px", marginTop: "10px" }}>
+  <li>narozeninové oslavy</li>
+  <li>smuteční hostiny</li>
+  <li>firemní večírky</li>
+  <li>rodinná setkání</li>
+  <li>posezení s přáteli</li>
+  <li>menší soukromé akce</li>
+</ul>
 
-  <p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
-    Zajistíme příjemné prostředí, domácí občerstvení, sladké i slané dobroty,
-    výběrovou kávu i individuální domluvu podle vašich přání.
-  </p>
+<p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
+  Zajistíme příjemné prostředí, domácí občerstvení, sladké i slané dobroty,
+  výběrovou kávu i individuální domluvu podle vašich přání.
+</p>
 
-  <p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
-    Pro více informací a rezervace nás neváhejte kontaktovat.
+<p style={{ fontSize: "21px", lineHeight: "2", color: "#5a4638", marginTop: "20px" }}>
+  Pro více informací a rezervace nás neváhejte kontaktovat.
+</p>
   
 
-            </p>
+            
           </div>
 
           <img
