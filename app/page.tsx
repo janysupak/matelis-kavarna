@@ -221,12 +221,15 @@ export default function Home() {
                 color: "#5a4638",
               }}
             >
-              Nabízíme výběrovou kávu, dorty a řezy,
-              obložené croissanty a housky, zmrzlinu,
-              horké ovoce i denní menu. Zakládáme si
-              na příjemné atmosféře, kvalitních
-              surovinách a prostoru, kde se budete
-              cítit dobře 💛
+              V prostorách kavárny MatEliS pro vás rádi připravíme:
+narozeninové oslavy
+smuteční hostiny
+firemní večírky
+rodinná setkání
+posezení s přáteli
+menší soukromé akce
+Zajistíme příjemné prostředí, domácí občerstvení, sladké i slané dobroty, výběrovou kávu i individuální domluvu podle vašich přání.
+Pro více informací a rezervace nás neváhejte kontaktovat
             </p>
           </div>
 
