@@ -92,7 +92,7 @@ export default function Home() {
         }}
       >
         <img
-          src="/kavarna1.jpg"
+          src="/kebab.jpg"
           alt="hero"
           style={{
             position: "absolute",
@@ -221,7 +221,7 @@ export default function Home() {
                 color: "#5a4638",
               }}
             >
-              Nabízíme výběrovou káv, dorty a řezy,
+              Nabízíme výběrovou kávu, dorty a řezy,
               obložené croissanty a housky, zmrzlinu,
               horké ovoce i denní menu. Zakládáme si
               na příjemné atmosféře, kvalitních
