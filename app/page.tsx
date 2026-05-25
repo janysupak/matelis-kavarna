@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <main
       style={{
-        backgroundColor: "#f4eee7",
+        backgroundColor: "#936f46",
         color: "#2b1d16",
         fontFamily: "Arial",
       }}
@@ -86,13 +86,10 @@ export default function Home() {
 
       {/* HERO */}
       <section
-  style={{
-    height: "100vh",
-    width: "100%",
-    position: "relative",
-    overflow: "hidden",
-  }}
-
+        style={{
+          height: "100vh",
+          position: "relative",
+        }}
       >
         <img
           src="/kavarna1.jpg"
@@ -224,7 +221,7 @@ export default function Home() {
                 color: "#5a4638",
               }}
             >
-              Nabízíme výběrovou kávu, dorty a řezy,
+              Nabízíme výběrovou káv, dorty a řezy,
               obložené croissanty a housky, zmrzlinu,
               horké ovoce i denní menu. Zakládáme si
               na příjemné atmosféře, kvalitních
@@ -488,4 +485,4 @@ export default function Home() {
       </footer>
     </main>
   );
-}
+} 
